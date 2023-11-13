@@ -1,8 +1,9 @@
 body{
-    color:rgb(255, 224, 224);
+    color:rgb(18, 18, 18);
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    background-color: aqua;
 }
 
 
@@ -10,11 +11,15 @@ body{
 #cabecera{
     background: #33f;
     box-shadow: 0px 5px 20px 0px rgb(45, 42, 40);
-    color: white;
+    color: rgb(255, 0, 0);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 
+}
+
+#contenido {
+  background-color: blueviolet;
 }
 
 #cabecera #tagline{
