@@ -1,9 +1,69 @@
-body{
+/*body{
+<<<<<<< HEAD
     color:rgb(18, 18, 18);
     text-align: left;
+=======
+
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     background-color: aqua;
+}
+
+#nave {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    
+}
+
+
+#cabecera{
+    background: darkcyan;
+    box-shadow: 0px 5px 20px 0px rgb(45, 42, 40);
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em 0 0.5em 2em;
+
+}
+
+<<<<<<< HEAD
+#contenido {
+  background-color: blueviolet;
+}
+=======
+
+>>>>>>> header
+
+#cabecera #tagline{
+    padding:  0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+    
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
+}
+
+#past{
+    padding: 1em;
+}*/
+
+body{
+    color:rgb(152, 0, 0);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
 }
 
 
@@ -11,15 +71,11 @@ body{
 #cabecera{
     background: #33f;
     box-shadow: 0px 5px 20px 0px rgb(45, 42, 40);
-    color: rgb(255, 0, 0);
+    color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
 
-}
-
-#contenido {
-  background-color: blueviolet;
 }
 
 #cabecera #tagline{
@@ -44,4 +100,10 @@ body{
 
 #past{
     padding: 1em;
+}
+
+#footer {
+    background:#777 ;
+    color:white ;
+    text-align: center;
 }
