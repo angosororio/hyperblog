@@ -2,7 +2,7 @@
 Un blog increible para el curso de Git y GitHub de Platzi
 >El curso de Git y GitHub de platzi me ha enseñado muchas cosas que se pueden hacer co n en este sistema tan extenso y los resultados que se obtienen si se usa bien.
 
-En este curso cemos de todo:
+En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
