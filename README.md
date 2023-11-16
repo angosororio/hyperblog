@@ -10,3 +10,5 @@ En este curso cemos de todo:
 * Las personalidades múltiples de Freddy
 
 Y como un amable recordatorio: **Este readme.md es un chiste** Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO ve a ver el curso.
+
+No agregue links pero puedes ir haciendo click aqui https://platzi.com/cursos/git-github/
